@@ -1,0 +1,1 @@
+In this task, I compile the sum1ton program using C and the RISC-V compiler. I write the C code for calculating the sum of integers, then use the RISC-V toolchain to compile it into machine code. This process enhances my understanding of cross-compilation, optimization, and the RISC-V architecture.
