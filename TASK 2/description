@@ -1,0 +1,1 @@
+In this task, I learn how to decode a sumofinteger program by analyzing its machine code with the RISC-V compiler. Using Spike, the RISC-V simulator, I decode the instructions, examine their behavior, and gain insights into the program's execution flow. This enhances my understanding of RISC-V architecture and debugging techniques.
