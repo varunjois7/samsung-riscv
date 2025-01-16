@@ -1,5 +1,0 @@
-lui a0, 0x2b
-Instruction Format:
-[imm[31:12] | rd[11:7] | opcode[6:0]]
-32-bit instruction code:
-0x0002b073
